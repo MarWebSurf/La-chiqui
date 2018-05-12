@@ -16,6 +16,7 @@ public class Main {
         //
         System.out.println("ÿyyyyyyyyffff");
         System.out.println("flyflyfly");		
+        System.out.println("smile");		
        
         Individuales individual1 = new Individuales();
         Individuales individual2 = new Individuales();

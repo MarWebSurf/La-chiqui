@@ -21,7 +21,8 @@ public class Main {
         System.out.println("smilessss");		
         System.out.println("smilessss");		
         System.out.println("smilessss");		
-       
+        System.out.println("smilesssqqqqqqqqqqqqqqs");
+
         Individuales individual1 = new Individuales();
         Individuales individual2 = new Individuales();
         Pack pack1 = new Pack();

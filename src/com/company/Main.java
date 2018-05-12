@@ -15,8 +15,8 @@ public class Main {
         // ese evento. Finalmente invoco el metodo encenderVelas que tiene ese evento. Viva la chiqui conchuda.
         //
         System.out.println("gdfgdsfgsdf");
-        System.out.println("ÿyyyyyyyy");
-
+        System.out.println("ÿyyyyyyyyffff");
+       
         Individuales individual1 = new Individuales();
         Individuales individual2 = new Individuales();
         Pack pack1 = new Pack();

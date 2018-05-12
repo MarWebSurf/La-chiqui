@@ -14,7 +14,6 @@ public class Main {
         // agregarInvitado. Agrego los fuegos individuales y packs que cree recien a la lista FuegosLista que tiene
         // ese evento. Finalmente invoco el metodo encenderVelas que tiene ese evento. Viva la chiqui conchuda.
         //
-        System.out.println("gdfgdsfgsdf");
         System.out.println("ÿyyyyyyyyffff");
         System.out.println("flyflyfly");		
        
